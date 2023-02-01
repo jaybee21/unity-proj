@@ -5,7 +5,7 @@ public class TransformDisplay : MonoBehaviour {
 	public Transform player;
 	public GUIText guiText;
 
-	// Use this for initialization
+	//  for initialization
 	void Start () {
 	}
 	
