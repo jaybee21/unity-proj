@@ -17,12 +17,12 @@ public class Net : MonoBehaviour {
         webSocket.Connect();
 	}
 
-	// Use this for initialization
+	//  for initialization
 	void Start () {
 	
 	}
 	
-	// Update is called once per frame
+	// Update is called once per frame ...
 	void Update () {
 	
 	}
