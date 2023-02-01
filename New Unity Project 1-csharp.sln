@@ -1,5 +1,5 @@
 Microsoft Visual Studio Solution File, Format Version 10.00
-# Visual Studio 2008
+# Visual Studio 2022
 
 Project("{702DC962-78F6-7E36-F806-ED0EAE2B934E}") = "New Unity Project 1", "Assembly-CSharp-firstpass-vs.csproj", "{8A372BAF-BA95-0346-D5FC-D82F8865A500}"
 EndProject
