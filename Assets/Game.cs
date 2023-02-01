@@ -5,7 +5,7 @@ public class Game : MonoBehaviour {
 	
 	public GameObject prefab;
 
-	// Use this for initialization
+	//  for initialization
 	void Start () {
 			Instantiate(prefab, new Vector3(50, 2, 50), Quaternion.identity);
 	}
