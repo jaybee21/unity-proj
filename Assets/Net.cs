@@ -17,7 +17,7 @@ public class Net : MonoBehaviour {
         webSocket.Connect();
 	}
 
-	//  for initialization
+	//  for initialization...
 	void Start () {
 	
 	}
